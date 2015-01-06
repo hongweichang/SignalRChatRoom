@@ -1,0 +1,6 @@
+E:\FirstSignalR\SignalRSelfHost\bin\Debug\SignalRSelfHost.exe.config
+E:\FirstSignalR\SignalRSelfHost\bin\Debug\SignalRSelfHost.exe
+E:\FirstSignalR\SignalRSelfHost\bin\Debug\SignalRSelfHost.pdb
+E:\FirstSignalR\SignalRSelfHost\obj\Debug\SignalRSelfHost.exe
+E:\FirstSignalR\SignalRSelfHost\obj\Debug\SignalRSelfHost.pdb
+E:\FirstSignalR\SignalRSelfHost\obj\Debug\SignalRSelfHost.csprojResolveAssemblyReference.cache
